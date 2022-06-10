@@ -47,17 +47,17 @@ async def account(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/alarsalars'),
+						InlineKeyboardButton("🤖Other Bots", url="https://youtu.be/IPXIgEAGe4U"),
                         
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+                        InlineKeyboardButton("🔗 Twitter", url="https://twitter.com/ALARS_K_MOEDIG?t=0jhQvbGmRUrnMwG3_nHwQw&s=09"),
+						InlineKeyboardButton("Insta", url="https://www.instagram.com/alars_k_moedig/")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/November127")
 
                     ]
 					
@@ -129,17 +129,17 @@ async def _insta_post_batch(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/alarsalars'),
+						InlineKeyboardButton("🤖Other Bots", url="https://youtu.be/x5UDhlqFauo"),
                         
 					],
                     [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+                        InlineKeyboardButton("Insta", url="https://www.instagram.com/alars_k_moedig/"),
+						InlineKeyboardButton("Insta", url="https://www.instagram.com/alars_k_moedig/")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/November127")
 
                     ]
 					
